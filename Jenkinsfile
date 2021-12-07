@@ -2,7 +2,7 @@ pipeline {
     agent none
 
     environment {
-        DOCKER_HUB_USERNAME = credentials('adama28')
+        DOCKER_HUB_USERNAME = credentials('Jenkins')
         DOCKER_HUB_PASSWORD = credentials('DOCKER_HUB_TOKEN2')
         CURRENT_COMMIT = getCommitHash()
     }
