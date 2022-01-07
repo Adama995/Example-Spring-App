@@ -1,0 +1,7 @@
+organization=adama995
+projectKey=Adama995_Example-Spring-App
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.25862
+dashboardUrl=https://sonarcloud.io/dashboard?id=Adama995_Example-Spring-App
+ceTaskId=AX42h7QZ4lQVUIE5s1Zl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX42h7QZ4lQVUIE5s1Zl
